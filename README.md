@@ -83,8 +83,7 @@ A comprehensive healthcare platform for emergency response and medical guidance.
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rimuru2725&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rimuru2725&theme=radical"/>
-</p>
+  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimuru2725&layout=compact&theme=radical"/>
