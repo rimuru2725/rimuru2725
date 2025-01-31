@@ -122,4 +122,4 @@ A comprehensive healthcare platform for emergency response and medical guidance.
 
 ## 🎵 Currently Vibing To
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&title_color=ffffff&animation=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=viky&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&title_color=ffffff&animation=false)](https://spotify-github-profile.vercel.app/api/view?uid=viky&redirect=true)
