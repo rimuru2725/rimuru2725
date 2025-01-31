@@ -119,7 +119,3 @@ A comprehensive healthcare platform for emergency response and medical guidance.
 ## 📈 GitHub Activity Graph
 
 [![Vivek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rimuru2725&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🎵 Currently Vibing To
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=viky&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&title_color=ffffff&animation=false)](https://spotify-github-profile.vercel.app/api/view?uid=viky&redirect=true)
