@@ -68,6 +68,19 @@ A comprehensive healthcare platform for emergency response and medical guidance.
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
+### 🗄️ ZipLink 
+<p>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Project Status">
+  <img src="https://img.shields.io/github/contributors/rimuru2725/HealthGuardian" alt="Contributors">
+</p>
+
+A secure Peer to Peer File Sharing platform with password protection and qr code download features.
+
+**Tech Stack**: 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
 ## 🏅 Achievements & Certifications
 
 <p align="center">
