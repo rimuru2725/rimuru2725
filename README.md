@@ -155,7 +155,7 @@ Portfolio : rimuru2725.github.io
   │
   ├─ 📚 2021–2022  Intermediate @ Zee Litera Valley School ───── 82% (CBSE)
   │
-  ├─ 🏛️ 2022–Now   B.Tech CSE @ CGC Landran ─────────────────── SGPA: 8.14
+  ├─ 🏛️ 2022–2026   B.Tech CSE @ CGC Landran ─────────────────── CGPA: 8.43
   │
   ├─ 🏆 2024       Smart India Hackathon ─────────────────────── National Finalist
   │
